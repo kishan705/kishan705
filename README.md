@@ -1,10 +1,8 @@
 # Hey there 👋, I'm Kishan Amaliya
 
-🎓 **Pre-final year | Mathematics and Computing @ IIT BHU, Varanasi**
-💻 Passionate about **Competitive Programming** (1000+ problems solved on LeetCode, 500+ on Codeforces), **Systems Engineering**, and **AI/ML**.
-🚀 Building scalable backend architectures, custom low-level memory allocators, and full-stack multimodal AI pipelines.
+**Pre-final year | Mathematics and Computing @ IIT BHU, Varanasi**
 
-### 🛠️ Tech Stack
+Passionate about **Competitive Programming** 
 
 **Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -34,10 +32,3 @@
 ![Multithreading](https://img.shields.io/badge/Multithreading-d35400?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 🚀 Featured Projects
-
-* **VideoStream.ai (ChronoSearch):** Full-Stack AI Video Streaming & Search Architecture using FastAPI, React, SigLIP, Qdrant, and Celery.
-* **Custom Heap Memory Allocator:** Dynamic memory allocation library (malloc/free) in C for Unix-based systems using POSIX system calls.
-* **Image Compression Engine:** Implementation of Neural Network Autoencoders (PyTorch) and PCA from scratch for image dimensionality reduction.
-* **Distributed File System:** Fault-tolerant C++ DFS with custom binary TCP communication over POSIX sockets.
-* **Strategic Reversi AI:** High-performance C++ game engine utilizing Minimax and Alpha-Beta Pruning.
