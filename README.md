@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Kishan Amaliya
 
-**final year
+**Final year**
 **Mathematics and Computing @ IIT BHU, Varanasi**
 
 **Languages**
