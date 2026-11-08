@@ -1,5 +1,5 @@
 # Hey there 👋, I'm Kishan Amaliya
-**Final year**
+**AI Engineer**
 
 
 **Mathematics and Computing**
