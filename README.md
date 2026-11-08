@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Kishan Amaliya
+# I'm Kishan Amaliya
 **AI Engineer**
 
 
